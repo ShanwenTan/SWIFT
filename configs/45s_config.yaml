@@ -14,8 +14,8 @@ model_kwargs:
 
 
 # Inference
-data_path: /data1/users/tanshanwen/video_generation/LongLive_most_fast/longlive_models/prompts/interactive_example.jsonl
-output_folder: videos/interactive_version4_most_fast_fast7_45s_6prompt
+data_path: /prompts/interactive_example.jsonl
+output_folder: videos/interactive_45s_6prompt
 inference_iter: -1
 num_output_frames: 180
 use_ema: false
@@ -26,8 +26,8 @@ switch_frame_indices: 30, 60, 90, 120, 150
 global_sink: true
 context_noise: 0
 
-generator_ckpt: /data1/users/tanshanwen/video_generation/models/longlive_models/models/longlive_base.pt
-lora_ckpt: /data1/users/tanshanwen/video_generation/models/longlive_models/models/lora.pt
+generator_ckpt: /models/longlive_models/models/longlive_base.pt
+lora_ckpt: /models/longlive_models/models/lora.pt
 
 adapter:
   type: "lora"
