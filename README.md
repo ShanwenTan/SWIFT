@@ -193,18 +193,6 @@ output_folder: videos/interactive_60s
 
 The output video filenames are automatically generated during inference.
 
-## Citation
-
-If you find this project useful, please consider citing:
-
-```bibtex
-@article{swift2026,
-  title={SWIFT: Prompt-Adaptive Memory for Efficient Interactive Long Video Generation},
-  author={Anonymous Authors},
-  journal={NeurIPS},
-  year={2026}
-}
-```
 
 ## License
 
