@@ -210,6 +210,4 @@ If you find this project useful, please consider citing:
 
 This project is released under the Apache-2.0 License. See [LICENSE](LICENSE) for details.
 
-## Acknowledgements
 
-This repository builds upon open-source video generation and long-video inference frameworks. We thank the authors and contributors of the related projects.
