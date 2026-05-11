@@ -70,7 +70,7 @@ If your checkpoints are stored in different directories, update the correspondin
 Run interactive inference with:
 
 ```bash
-bash interactivate_inference.sh
+bash interactive_inference.sh
 ```
 
 The shell script runs interactive video generation using the configuration file specified by `--config_path`.
