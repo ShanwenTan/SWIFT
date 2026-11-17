@@ -1,3 +1,6 @@
+> [!NOTE]
+> We have revised SWIFT's computation logic, bringing generation throughput to **30.2 FPS**. We will publish the updated code in this repository at a later date.
+
 # SWIFT
 
 **SWIFT: Prompt-Adaptive Memory for Efficient Interactive Long Video Generation**
